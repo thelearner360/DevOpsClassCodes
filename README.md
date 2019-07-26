@@ -66,6 +66,6 @@ To use the built in server adapters of Eclipse, instead of doing "Run As -> Mave
 - *Do not use the suggested J2EE Preview server* as it is outdated, deprecated and does not support Servlet 3, which is required for this application
 <<<<<<< HEAD
 
-
+# adding a comment to push the changes to github repo
 # adding a comment by Raj to test jenkins pipeline poll SCM trigger
 *** End of documentation
